@@ -1,8 +1,7 @@
-import Example from '../_modules/example-module/example-module';
+import CountDays from '../_modules/countDays/countdays.js';
 
 'use strict';
 
 (function(){
-  let example = new Example();
-
+  let countDays = new CountDays();
 })();
